@@ -70,7 +70,7 @@ int main(int argc, const char * argv[]) {
         // insert code here...
         //NSLog(@"Hello, World!");
         Studnt *stu = [[Studnt alloc] init];
-        [stu setNAme:@"小花" andAge:25];
+        [stu setNAme:@"小小飞" andAge:25];
         //NSLog(@"name = %@, age = %li", [stu name], [stu age]);
         [Studnt tsetStudent];
     }
